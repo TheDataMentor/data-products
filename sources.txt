@@ -1,0 +1,17 @@
+#
+# hpi_type,hpi_flavor,frequency,level,place_name,place_id,yr,period,index_nsa,index_sa
+https://www.fhfa.gov/hpi/download/monthly/hpi_master.csv
+
+# dallas market value analysis
+https://www.dallasopendata.com/Economy/Dallas-Market-Value-Analysis/ee4b-wpfx/data_preview
+#api
+https://www.dallasopendata.com/resource/dri5-wcct.csv
+
+#dallas zoning
+https://www.opendatanetwork.com/dataset/www.dallasopendata.com/8eqv-arii
+
+# dallas gov open api
+https://www.opendatanetwork.com/search?q=dallas+texas
+
+# dallas restarants 
+https://www.dallasopendata.com/Services/Restaurant-and-Food-Establishment-Inspections-Octo/dri5-wcct/data_preview
